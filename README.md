@@ -1,5 +1,6 @@
 # SayAgain
 
+TODO:
 - features
     - change text color selector
     - number of lines selector
